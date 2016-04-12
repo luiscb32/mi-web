@@ -4,5 +4,5 @@
 Prueba de web usando Github
 =======
 # mi-web
-mi web de prueba
+mi web de prueba repositorio
 >>>>>>> origin/master
